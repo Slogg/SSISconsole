@@ -1,0 +1,10 @@
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\dimaa\Documents\Visual Studio 2017\Projects\ConsoleApp2\ConsoleApp2\bin\Debug\Microsoft.SQLServer.PipelineHost.dll
